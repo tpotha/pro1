@@ -86,7 +86,10 @@ nav ul a:hover{
     background: #7CB8B8;
     flex:1;
     width: 20%;
+}
 
+.leftSide ul{
+    padding-left: 10px;
 }
 
 .rightSide {
