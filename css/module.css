@@ -140,12 +140,15 @@ aside ul {
 }
 .subsec:nth-child(1){
     background: url(../img/subsec1.jpg);
+    background-size: cover;
 }
 .subsec:nth-child(2){
     background: url(../img/subsec2.jpg);
+    background-size: cover;
 }
 .subsec:nth-child(3){
     background: url(../img/subsec3.jpg);
+    background-size: cover;
 }
 
 /*End Main Section */
@@ -174,15 +177,15 @@ footer ul a{
 
 footer p {
     margin: 0;
-    padding-top:40px;
+    padding:20px;
     color: darkblue;
     text-align: center;
 }
 
 .social-links{
-    float:right;
-    padding-right: 50px;
-    font-size: 40px;
+   text-align: center;
+    padding: 10px;
+    font-size: 30px;
 }
 
 
