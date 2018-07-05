@@ -8,7 +8,7 @@ header {
 header h1{
     font-family: fantasy;
     letter-spacing: 1px;
-    text-transform: lowercase;
+    /* text-transform: lowercase; */
     text-shadow: 1px 2px 5px #499167;
     font-size: 40px;
     margin: 0;
